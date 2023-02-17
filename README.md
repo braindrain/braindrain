@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi I'm Gleb 👋
 <!--
 **braindrain/braindrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-glebuvarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glebuvarov)](https://www.linkedin.com/in/glebuvarov)
+[![Website Badge](https://img.shields.io/badge/-uvarov.eu-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.uvarov.eu)](https://www.uvarov.eu)
+[![Gmail Badge](https://img.shields.io/badge/-g.uvarov-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.uvarov@gmail.com)](mailto:g.uvarov@gmail.com)
